@@ -1,2 +1,0 @@
-export CLASSPATH=$CLASSPATH:/home/angel.munozs/www/lib/dht_dist.jar:/home/angel.munozs/www/lib/jgroups-4.0.0-SNAPSHOT.jar:/home/angel.munozs/www/lib/act_replication.jar
-
